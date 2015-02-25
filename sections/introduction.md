@@ -2,7 +2,7 @@
 
 Kevin Greene - @SurrealAnalysis
 
-kevingreene.github.io/functional-programming-talk/
+kevingreene.github.io/fpjs-talk/
 
 
 ### What
